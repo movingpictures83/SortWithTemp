@@ -1,0 +1,2 @@
+Prefix plugins/SortWithTemp/example/
+Plugin SortWithTemp inputfile parameters.sorttemp.txt outputfile SR_sorted.seq
